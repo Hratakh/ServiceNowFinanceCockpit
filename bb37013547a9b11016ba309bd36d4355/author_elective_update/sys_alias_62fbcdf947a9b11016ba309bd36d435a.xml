@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_336554_finance_0.Github</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Github</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 13:52:22</sys_created_on>
+        <sys_id>62fbcdf947a9b11016ba309bd36d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_336554_finance_0.Github</sys_name>
+        <sys_package display_value="Finance Cockpit" source="x_336554_finance_0">bb37013547a9b11016ba309bd36d4355</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Cockpit">bb37013547a9b11016ba309bd36d4355</sys_scope>
+        <sys_update_name>sys_alias_62fbcdf947a9b11016ba309bd36d435a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 13:52:22</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Cockpit">bb37013547a9b11016ba309bd36d4355</application>
+        <file_path/>
+        <instance_id>18726ce7db1bd3446578f22ebf961988</instance_id>
+        <instance_name>dev66059</instance_name>
+        <name>sys_alias_62fbcdf947a9b11016ba309bd36d435a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_336554_finance_0.Github</id><multiple_connections>false</multiple_connections><name>Github</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 13:52:22</sys_created_on><sys_id>62fbcdf947a9b11016ba309bd36d435a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_336554_finance_0.Github</sys_name><sys_package display_value="Finance Cockpit" source="x_336554_finance_0">bb37013547a9b11016ba309bd36d4355</sys_package><sys_policy/><sys_scope display_value="Finance Cockpit">bb37013547a9b11016ba309bd36d4355</sys_scope><sys_update_name>sys_alias_62fbcdf947a9b11016ba309bd36d435a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 13:52:22</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1731424613</payload_hash>
+        <record_name>x_336554_finance_0.Github</record_name>
+        <reverted_from/>
+        <source>b337013547a9b11016ba309bd36d4380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 13:52:22</sys_created_on>
+        <sys_id>9f0c413d47a9b11016ba309bd36d4303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18adc0fde3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 13:52:22</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>930c413dbca9b11069b665ab63c81603</update_guid>
+        <update_guid_history>930c413dbca9b11069b665ab63c81603:1731424613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 13:53:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>7180122279b543729f2b73c2a57c7d04</sys_id>
+        <sys_metadata>62fbcdf947a9b11016ba309bd36d435a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_336554_finance_0.Github</sys_name>
+        <sys_package display_value="Finance Cockpit" source="x_336554_finance_0">bb37013547a9b11016ba309bd36d4355</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Cockpit">bb37013547a9b11016ba309bd36d4355</sys_scope>
+        <sys_scope_delete display_value="">a933d399beaf41a6be49bed07ebf8031</sys_scope_delete>
+        <sys_update_name>sys_alias_62fbcdf947a9b11016ba309bd36d435a</sys_update_name>
+        <sys_update_version display_value="sys_alias_62fbcdf947a9b11016ba309bd36d435a">9f0c413d47a9b11016ba309bd36d4303</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 13:53:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
