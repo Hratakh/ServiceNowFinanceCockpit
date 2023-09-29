@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="816042c64769351016ba309bd36d43c7" extends="core_company" label="ERP Entity" max_length="40" name="x_336554_finance_0_erp_entity" type="collection">
+        <element label="ERP Client ID" max_length="40" name="erp_client_id" type="string"/>
+        <element label="Head of Finance" max_length="32" name="head_of_finance" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="head_of_finance"/>
+        </index>
+    </element>
+</database>

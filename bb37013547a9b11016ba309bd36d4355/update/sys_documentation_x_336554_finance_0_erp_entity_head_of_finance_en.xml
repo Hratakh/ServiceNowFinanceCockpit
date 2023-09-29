@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="head_of_finance" label="Head of Finance" language="en" table="x_336554_finance_0_erp_entity">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>head_of_finance</element>
+            <help/>
+            <hint/>
+            <label>Head of Finance</label>
+            <language>en</language>
+            <name>x_336554_finance_0_erp_entity</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-29 12:22:26</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Head of Finance</sys_name>
+            <sys_package display_value="Finance Cockpit" source="x_336554_finance_0">bb37013547a9b11016ba309bd36d4355</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Cockpit">bb37013547a9b11016ba309bd36d4355</sys_scope>
+            <sys_update_name>sys_documentation_x_336554_finance_0_erp_entity_head_of_finance_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-29 12:22:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

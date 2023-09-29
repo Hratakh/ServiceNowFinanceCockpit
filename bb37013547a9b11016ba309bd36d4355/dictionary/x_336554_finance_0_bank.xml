@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b112828a4769351016ba309bd36d4385" extends="core_company" label="Bank" max_length="40" name="x_336554_finance_0_bank" type="collection">
+        <element label="SWIFT" max_length="40" name="swift" type="string"/>
+    </element>
+</database>

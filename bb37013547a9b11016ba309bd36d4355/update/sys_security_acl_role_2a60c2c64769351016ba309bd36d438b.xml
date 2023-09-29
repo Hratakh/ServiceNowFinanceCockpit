@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 12:19:37</sys_created_on>
+        <sys_id>2a60c2c64769351016ba309bd36d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_336554_finance_0_erp_entity.x_336554_finance_0.fc_admin</sys_name>
+        <sys_package display_value="Finance Cockpit" source="x_336554_finance_0">bb37013547a9b11016ba309bd36d4355</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Cockpit">bb37013547a9b11016ba309bd36d4355</sys_scope>
+        <sys_security_acl display_value="x_336554_finance_0_erp_entity">2660c2c64769351016ba309bd36d4385</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2a60c2c64769351016ba309bd36d438b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 12:19:37</sys_updated_on>
+        <sys_user_role display_value="x_336554_finance_0.fc_admin" name="x_336554_finance_0.fc_admin">3b37013547a9b11016ba309bd36d4384</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2f200a864769351016ba309bd36d43a0" extends="sn_customerservice_case" label="Finance Case" max_length="40" name="x_336554_finance_0_finance_case" type="collection"/>
+</database>

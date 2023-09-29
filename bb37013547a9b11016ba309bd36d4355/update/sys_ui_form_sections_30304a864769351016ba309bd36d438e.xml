@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="30304a864769351016ba309bd36d438e" sys_domain="global" table="x_336554_finance_0_finance_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-29 12:18:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0304a864769351016ba309bd36d439f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_336554_finance_0_finance_case" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">30304a864769351016ba309bd36d438e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">b8304a864769351016ba309bd36d4397</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-29 12:18:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-29 12:18:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0304a864769351016ba309bd36d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_336554_finance_0_finance_case" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">30304a864769351016ba309bd36d438e</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">fc304a864769351016ba309bd36d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-29 12:18:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-29 12:18:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8304a864769351016ba309bd36d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_336554_finance_0_finance_case" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">30304a864769351016ba309bd36d438e</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">f0304a864769351016ba309bd36d43a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-29 12:18:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-29 12:18:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30304a864769351016ba309bd36d4397</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_336554_finance_0_finance_case" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">30304a864769351016ba309bd36d438e</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">78304a864769351016ba309bd36d4391</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-29 12:18:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-29 12:18:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc304a864769351016ba309bd36d43a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_336554_finance_0_finance_case" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">30304a864769351016ba309bd36d438e</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_336554_finance_0_finance_case" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">f4304a864769351016ba309bd36d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-29 12:18:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_336554_finance_0_finance_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-29 12:18:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30304a864769351016ba309bd36d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_336554_finance_0_finance_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Finance Cockpit" source="x_336554_finance_0">bb37013547a9b11016ba309bd36d4355</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Cockpit">bb37013547a9b11016ba309bd36d4355</sys_scope>
+            <sys_update_name>sys_ui_form_sections_30304a864769351016ba309bd36d438e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-29 12:18:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">11739aa0f98211108c8bd16244dfe72b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

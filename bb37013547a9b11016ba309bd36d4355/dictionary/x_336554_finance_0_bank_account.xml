@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8aa206ca4769351016ba309bd36d430c" extends="cmdb_ci" label="Konfigurationselement" max_length="40" name="x_336554_finance_0_bank_account" type="collection">
+        <element label="Account Number" max_length="40" name="account_number" type="string"/>
+        <element label="Bank" max_length="32" name="bank" reference="x_336554_finance_0_bank" type="reference"/>
+        <element label="Currency" max_length="32" name="currency" reference="fx_currency" type="reference"/>
+        <element label="External ID" max_length="40" name="external_id" type="string"/>
+        <element label="IBAN" max_length="40" name="iban" type="string"/>
+    </element>
+</database>
